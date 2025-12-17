@@ -71,6 +71,8 @@ Jest · Testing Library · PyTest
 <br>
 <br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prit2205&show_icons=true&locale=en" alt="prit2205" /></p>
+
 ## 🤝 How to Reach Me
 
 If you'd like to collaborate, discuss a project, or have a question, feel free to open an issue on one of my repositories or send me an email. I'm always happy to connect! Give me icon and professional animations give me a code 
